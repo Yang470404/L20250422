@@ -5,6 +5,8 @@
 #include "Cow.h"
 #include "Dog.h"
 
+//동물원의 동물들이 각자의 소리로 말한다.
+
 int main()
 {
 	std::vector<AAnimal*> zoo;
